@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4816e41748a2a6f318d37F9Ff5f26d6B619EcefA",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4816e41748a2a6f318d37f9ff5f26d6b619ecefa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Smile X",
+  "SYMBOL": "SMLX",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 110,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/smilexofficial",
+  "SHOW_BACKGROUND": true
+}
